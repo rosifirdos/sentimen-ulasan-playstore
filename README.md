@@ -12,6 +12,15 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada ulasan aplikasi di G
 - **Machine Learning**: Implementasi model Logistic Regression dengan TF-IDF Vectorization.
 - **Evaluation**: Laporan performa model yang lengkap (Accuracy, F1-Score, Confusion Matrix, & Cross-Validation).
 
+## 💻 Tech Stack
+- **Python**: Bahasa pemrograman utama untuk analisis data dan scripting.
+- **Pandas**: Library untuk manipulasi data (membaca file CSV/TSV dan mengelola DataFrame).
+- **Scikit-Learn**: Framework utama untuk pembuatan model machine learning (Logistic Regression), TF-IDF vectorization, dan evaluasi model.
+- **Sastrawi**: Digunakan untuk pemrosesan teks bahasa Indonesia (stemming dan penghapusan stopword).
+- **Google Play Scraper**: Library untuk melakukan scraping ulasan langsung dari Google Play Store.
+- **Matplotlib & Seaborn**: Digunakan untuk visualisasi data (distribusi rating, confusion matrix, dsb).
+- **Jupyter Notebook**: Media untuk melakukan eksperimen dan analisis data secara interaktif.
+
 ## 📁 Struktur Proyek
 ```text
 .
