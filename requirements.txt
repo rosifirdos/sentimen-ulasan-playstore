@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+google-play-scraper
+jupyter
+notebook
+Sastrawi
